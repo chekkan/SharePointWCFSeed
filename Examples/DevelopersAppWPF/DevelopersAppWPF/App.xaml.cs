@@ -5,7 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace DevelopersAppWPF
+namespace SharePointWCFSeed.Examples.DevelopersAppWPF
 {
     /// <summary>
     /// Interaction logic for App.xaml
